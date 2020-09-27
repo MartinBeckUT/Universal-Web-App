@@ -1,0 +1,25 @@
+{
+  "name": "universal-web-app",
+  "version": "1.0.0",
+  "description": "Application designed around universal rendering and routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MartinBeckUT/Universal-Web-App.git"
+  },
+  "keywords": [
+    "Universal",
+    "Javascript",
+    "Node",
+    "React"
+  ],
+  "author": "Martin Beck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinBeckUT/Universal-Web-App/issues"
+  },
+  "homepage": "https://github.com/MartinBeckUT/Universal-Web-App#readme"
+}
